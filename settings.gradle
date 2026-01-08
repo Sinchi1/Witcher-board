@@ -1,2 +1,9 @@
 rootProject.name = 'witcher-board'
 include 'gate'
+
+
+dependencyResolutionManagement {
+    repositories{
+        mavenCentral()
+    }
+}
