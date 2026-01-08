@@ -1,4 +1,4 @@
-package org.kursach.service.dto;
+package org.kursach.service;
 
 public record ValidationToken(String token) {
 }
