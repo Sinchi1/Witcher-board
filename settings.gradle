@@ -1,5 +1,6 @@
 rootProject.name = 'witcher-board'
 include 'gate'
+include 'ecoSystem'
 
 
 dependencyResolutionManagement {
