@@ -1,4 +1,4 @@
-package org.kursach.dto;
+package org.kursach.store.dto;
 
 import java.util.Set;
 

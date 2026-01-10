@@ -1,4 +1,4 @@
-package org.kursach.dto;
+package org.kursach.store.dto;
 
 import jakarta.validation.constraints.Size;
 
